@@ -1,0 +1,21 @@
+.carousel-hr,.footer-hr{
+    border: 1px solid white;
+}
+.buttons{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.quick{
+    border: 2px solid darkblue;
+    border-radius: 15px;
+}
+form{
+    background-color: darkblue;
+    padding: 15px;
+    border-radius: 15px;
+}
+input,textarea,button{
+    margin: 10px 0;
+}
